@@ -20,5 +20,7 @@ public class OntapToanTu {
             System.out.println("Neu a=b va b=c, thi a=c= "+a);
         }
         System.out.println("a khac b khac c");
+
+
     }
 }
