@@ -1,6 +1,7 @@
 package thy.com.homework.JavaBasic.JavaBasic3;
 
 public class OntapToanTu {
+<<<<<<< HEAD
     public static void main(String[] args) {
         int a=10;
         int b=20;
@@ -23,4 +24,7 @@ public class OntapToanTu {
 
 
     }
+=======
+    
+>>>>>>> origin/main
 }
