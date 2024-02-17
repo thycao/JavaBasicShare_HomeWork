@@ -16,7 +16,7 @@ public class VongLapForandArray {
 
         }
         System.out.println("--------------In ra mang luu so chan vua tao de duyet xem ket qua----------------");
-        for (int i = 0; i < mangluusochan.length; i++) {
+        for (int i = 1; i < mangluusochan.length; i++) {
             System.out.println(mangluusochan[i]);
         }
         System.out.println("---------------END---------------");
